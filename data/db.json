@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "User": 2,
+    "UserCredentials": 2
+  },
+  "models": {
+    "User": {
+      "79736681-982d-4dbf-903d-231fb7fdfabf": "{\"id\":\"79736681-982d-4dbf-903d-231fb7fdfabf\",\"email\":\"sandeep@gmail.com\"}"
+    },
+    "UserCredentials": {
+      "9dc03a74-433d-4aac-8b4a-3c8c26587459": "{\"id\":\"9dc03a74-433d-4aac-8b4a-3c8c26587459\",\"password\":\"$2a$10$WcV9eVYqup.ZY.iUO0KJa./gwe1R1sR.dm3TK/YnEwTiwEOe1fwSi\",\"userId\":\"79736681-982d-4dbf-903d-231fb7fdfabf\"}"
+    }
+  }
+}
